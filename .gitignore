@@ -1,0 +1,17 @@
+# artefakty syntezy
+*.json
+*.fs
+*.bit
+# symulacja
+*.vvp
+*.vcd
+*.fst
+sim_build/
+results.xml
+# python
+__pycache__/
+.venv/
+*.pyc
+# edytory
+.vscode/
+.idea/
